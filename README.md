@@ -1,12 +1,12 @@
 # Guess-Game-in-Java
-import java.util.Random;
-import java.util.Scanner;
+import java.util.Random; <br>
+import java.util.Scanner; <br>
 
-public class Task2 {
-    private static final int MIN_RANGE = 1;
-    private static final int MAX_RANGE = 100;
-    private static final int MAX_ATTEMPTS = 10;
-    private static final int MAX_ROUNDS = 3;
+public class Task2 { <br>
+    private static final int MIN_RANGE = 1; <br>
+    private static final int MAX_RANGE = 100; <br>
+    private static final int MAX_ATTEMPTS = 10; <br>
+    private static final int MAX_ROUNDS = 3; <br>
 
     public static void main(String[] args) {
         Random random = new Random();
